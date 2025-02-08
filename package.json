@@ -1,0 +1,25 @@
+{
+  "name": "personalproject",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegooz45/qaWork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegooz45/qaWork/issues"
+  },
+  "homepage": "https://github.com/thegooz45/qaWork#readme",
+  "devDependencies": {
+    "cypress": "^14.0.2",
+    "prettier": "^3.4.2"
+  }
+}
